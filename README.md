@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**huwprosser/huwprosser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I am Huw.</h1>
+<h3 align="center">Contrary to Popular Belief, I Know Exactly What I'm Doing.</h3>
 
-Here are some ideas to get you started:
+I've been helping A.I take over since 2008.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙈 In a three-way relationship with Co-Pilot and ChatGPT
+
+- 🤖 Building AI powered NPCs at [Carter](https://carterapi.com)
+
+- 🔨 You may know me as the guy build JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)
+
+- ☕ Mainly powered by Coffee and dreams. [Buy me a Coffee](https://buymeacoffee.com/huwprosser) if you dare.
+
