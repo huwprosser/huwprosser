@@ -8,7 +8,7 @@ I've been helping A.I take over since 2008.
 
 - 🤖 Building AI powered NPCs at [Carter](https://carterapi.com)
 
-- 🔨 You may know me as the guy build JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)
+- 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)"
 
 - ☕ Mainly powered by Coffee and dreams. [Buy me a Coffee](https://buymeacoffee.com/huwprosser) if you dare.
 
