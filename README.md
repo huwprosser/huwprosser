@@ -13,11 +13,11 @@ I've been helping A.I take over since 2008.
 ## Here are some things I built for you.
 All these projects are open source because I love building stuff.
 
-- [ChatGPT Desktop](https://github.com/huwprosser/deskgpt)
 - [SOTA Voice Recogntion in the browser](https://github.com/huwprosser/web-whisper)
 - [Carter in the Metaverse](https://github.com/huwprosser/carter-unity-voice-demo)
 - [Carter in Python](https://github.com/huwprosser/carter-voice-assistant)
 - [Face Recognition](https://github.com/huwprosser/blooface)
 - [Image Clustering](https://github.com/huwprosser/cluster-fk)
+- [ChatGPT Desktop](https://github.com/huwprosser/deskgpt)
 
 Build something cool.
