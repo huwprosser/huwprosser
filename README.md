@@ -8,7 +8,7 @@ I've been helping A.I take over since 2008.
 
 - 🤖 Building AI sidekicks at [Carter](https://carterlabs.ai)
 
-- 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)"
+- 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)" 80m+ views, 1m+ followers
 
 ## Here are some things I built for you.
 All these projects are open source because I love building stuff.
