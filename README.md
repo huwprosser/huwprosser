@@ -4,14 +4,13 @@
 
 I've been helping A.I take over since 2008.
 
-- 🙈 In a three-way relationship with Co-Pilot and ChatGPT
-
 - 🤖 Building incredible AI characters at [Carter.chat](https://carter.chat)
 
 - 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)" 80m+ views, 1m+ followers
 
-## Here are some open source things I built for you.
+## Here are some things I built for you.
 
+- [DropVR (Airdrop for VR and everything else](https://dropvr.com) 
 - [Whisper (ASR) in the browser](https://github.com/huwprosser/web-whisper)
 - [Face Recognition](https://github.com/huwprosser/blooface)
 - [Image Clustering](https://github.com/huwprosser/cluster-fk)
