@@ -9,7 +9,7 @@ I've been helping A.I take over since 2008.
 - 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)" 80m+ views, 1m+ followers
 
 ## Here are some things I built for you.
-
+- [Fury (Build Agents easily)](https://github.com/huwprosser/fury) 
 - [DropVR (Airdrop for VR and everything else](https://dropvr.com) 
 - [Whisper (ASR) in the browser](https://github.com/huwprosser/web-whisper)
 - [Face Recognition](https://github.com/huwprosser/blooface)
