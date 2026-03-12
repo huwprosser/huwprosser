@@ -4,7 +4,7 @@
 
 I've been helping A.I take over since 2008.
 
-- 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)" 80m+ views, 1m+ followers
+- 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)" 80m+ views
 
 ## Here are some things I built for you.
 - [Fury SDK](https://github.com/huwprosser/fury)
