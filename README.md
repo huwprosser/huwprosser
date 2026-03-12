@@ -4,16 +4,14 @@
 
 I've been helping A.I take over since 2008.
 
-- 🤖 Building incredible AI characters at [Carter.chat](https://carter.chat)
-
 - 🔨 "You may know me as the guy building JARVIS from Iron Man IRL on [TikTok](https://tiktok.com/@huwprosser)" 80m+ views, 1m+ followers
 
 ## Here are some things I built for you.
-- [Fury (Build Agents easily)](https://github.com/huwprosser/fury) 
-- [DropVR (Airdrop for VR and everything else](https://dropvr.com) 
+- [Fury SDK](https://github.com/huwprosser/fury)
+- [Spotify CLI for you and your agent](https://github.com/huwprosser/spotify-cli)
+- [DropVR (Airdrop for everything](https://dropvr.com) 
 - [Whisper (ASR) in the browser](https://github.com/huwprosser/web-whisper)
 - [Face Recognition](https://github.com/huwprosser/blooface)
 - [Image Clustering](https://github.com/huwprosser/cluster-fk)
-- [ChatGPT Desktop](https://github.com/huwprosser/deskgpt)
 
-Build something cool.
+Build something neat.
